@@ -1,0 +1,35 @@
+[
+  {
+    "names": [ "X", "Y", "Z" ],
+    "scala": 1,
+    "polygon": 1,
+    "color": {
+      "red": 255,
+      "green": 0,
+      "blue": 0
+    },
+
+    "positions": [
+      [ 1, 2 ],
+      [ 3, 5 ],
+      [ -3, 4 ]
+    ]
+  },
+
+  {
+    "names": [ "X'", "Y'" ],
+    "scala": 1,
+    "polygon": 1,
+    "color": {
+      "red": 0,
+      "green": 0,
+      "blue": 255
+    },
+
+    "positions": [
+      [ -1, -2 ],
+      [ -3, -5 ],
+      [ 3, -4 ]
+    ]
+  }
+]
